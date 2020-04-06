@@ -71,5 +71,5 @@ Run the app:
 
 ```py
 # on mac:
-FLASK_APP=hello.py flask run
+FLASK_APP=web_app flask run
 ```
